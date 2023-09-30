@@ -1,0 +1,16 @@
+img{
+    position: sticky;
+    top: 50px;
+    left: 150px;
+}
+.primDiv{
+    height: 600px;
+    
+}
+
+.secDiv{
+    height: 1000px;
+}
+main{
+    height: 3000px;
+}
